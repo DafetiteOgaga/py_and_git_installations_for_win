@@ -34,7 +34,7 @@ Write-Host "Confirming that git is successfully installed..."
 Write-Host "...................................................."
 git --version
 
-Pause
+Read-Host "Press Enter to clean-up and exit..."
 
 cd..
 Remove-Item -Path "py_and_git_installations_for_win" -Recurse -Force
