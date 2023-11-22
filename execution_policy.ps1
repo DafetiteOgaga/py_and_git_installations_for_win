@@ -36,4 +36,5 @@ git --version
 
 Pause
 
+cd..
 Remove-Item -Path "py_and_git_installations_for_win" -Recurse -Force
