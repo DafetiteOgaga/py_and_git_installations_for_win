@@ -33,3 +33,11 @@ Write-Host "...................................................."
 Write-Host "Confirming that git is successfully installed..."
 Write-Host "...................................................."
 git --version
+
+Read-Host "Press Enter to continue1..."
+
+Pause
+
+Read-Host "Press Enter to continue2..."
+
+Remove-Item -Path "<directory>" -Recurse -Force
