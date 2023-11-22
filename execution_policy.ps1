@@ -34,6 +34,7 @@ Write-Host "Confirming that git is successfully installed..."
 Write-Host "...................................................."
 git --version
 
+Write-Host ""
 Read-Host "Press Enter to clean-up and exit..."
 
 cd..
