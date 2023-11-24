@@ -1,11 +1,3 @@
-
-
-https://github.com/DafetiteOgaga/py_and_git_installations_for_win/assets/133142029/03dac575-aeff-4ff2-b6dc-39adbaedfec5
-
-
-
-
-
 # py_and_git_installations_for_win
 
 ## Requirements
@@ -14,6 +6,8 @@ https://github.com/DafetiteOgaga/py_and_git_installations_for_win/assets/1331420
 <br>
 
 ## Installation process
+
+https://github.com/DafetiteOgaga/py_and_git_installations_for_win/assets/133142029/03dac575-aeff-4ff2-b6dc-39adbaedfec5
 
 0. **Go to this url on your browser and download Python 3.1x**
    ```
